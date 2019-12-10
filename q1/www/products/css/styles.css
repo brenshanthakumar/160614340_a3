@@ -1,0 +1,43 @@
+{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.title-1-main {
+    padding: 50px;
+    font-size: 30px;
+    font-family: 'Jomolhari', serif;
+}
+
+.title-2-main {
+    padding-left: 50px;
+}
+
+.title-1 {
+    padding: 20px;
+    font-size: 50px
+}
+
+.bread {
+    background-color:	#00003b;
+    height: 10vh;
+    font-size: 25px;
+}
+.bread-crum-item {
+    text-decoration: none;
+    position: relative;
+    top: 3vh;
+    padding: 15px;
+    color: 	#ffffff;
+}
+
+.home-img{
+  max-width:200px;
+}
+
+.btn-primary{
+  color: white;
+}
